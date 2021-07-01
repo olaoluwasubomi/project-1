@@ -1,0 +1,81 @@
+*{
+    padding:0;
+    margin:0;
+}
+.origin{
+    height:230vh;
+    background-image:url("C:/Users/USER/Documents/subomi/img/dummies/blog/img3.jpg");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+.origin h2{
+    text-align:center;
+    font-size:40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:slateblue;
+    height:15px;
+    padding:25px;
+    text-transform: uppercase;
+}
+.origin h2:hover{
+    color:aquamarine;
+    text-align: justify;
+    font-size:50px;
+    font-style:italic;
+}
+.origin h4{
+    text-align:justify;
+    text-transform:uppercase;
+    font-size:35px;
+    color:snow;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+    font-style:italic;
+    font-weight:250px;
+    text-decoration: none;
+    letter-spacing:15px;
+    padding:25px;
+}
+.origin p{
+    text-indent:60px;
+    line-height:30px;
+    font-style:italic;
+    color:burlywood;
+}
+.origin h3{
+    font-style:oblique;
+    text-transform: uppercase;
+    text-align:center;
+    padding-top:30px;
+    padding-bottom:30px;
+    font-size:50px;
+}
+.origin ol{
+    text-indent:50px;
+    line-height:40px;
+    word-spacing:10px;
+    font-style: unset;
+    color:brown;
+    font-size:25px;
+}
+.image{
+    display:flex;
+    width:10%;
+    height:250px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin:50px 50px 50px;
+    padding:50px 50px 50px;
+}
+.image p{
+    font-size:30px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:darkblue;
+    text-transform: uppercase;
+}
+a{
+    text-decoration: none;
+    color:black;
+    text-align:justify;
+}
